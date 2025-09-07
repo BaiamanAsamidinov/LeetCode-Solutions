@@ -6,9 +6,14 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Math
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
