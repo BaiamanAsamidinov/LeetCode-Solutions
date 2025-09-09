@@ -19,4 +19,16 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
