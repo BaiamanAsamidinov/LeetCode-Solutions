@@ -16,6 +16,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0069-sqrtx](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
