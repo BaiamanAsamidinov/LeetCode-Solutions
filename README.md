@@ -13,6 +13,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
