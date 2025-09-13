@@ -6,7 +6,7 @@
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-        int left = 1, right = n;
+        int left = 1, right = n; // 1 2 3 4 5
         int answer = n;
 
         while (left <= right) {
@@ -24,7 +24,7 @@ public class Solution extends VersionControl {
     }
 }
 
-// 1 2 3 4 5
+
 
 // isBadVersion(i) = true -> bad
 
