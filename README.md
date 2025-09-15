@@ -40,6 +40,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -50,6 +51,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -58,6 +60,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
