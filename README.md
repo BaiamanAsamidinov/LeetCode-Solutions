@@ -12,12 +12,14 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
@@ -85,4 +87,12 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
