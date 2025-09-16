@@ -33,6 +33,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
 |  |
@@ -43,6 +44,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -55,6 +57,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -86,6 +89,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
