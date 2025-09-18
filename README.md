@@ -9,6 +9,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -77,6 +78,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0069-sqrtx](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
