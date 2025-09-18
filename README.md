@@ -51,6 +51,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -108,12 +109,15 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
