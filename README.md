@@ -32,6 +32,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0165-compare-version-numbers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
