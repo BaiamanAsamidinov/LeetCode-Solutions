@@ -8,6 +8,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0120-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -37,6 +38,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0120-triangle) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
