@@ -11,6 +11,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0120-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -35,6 +36,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
