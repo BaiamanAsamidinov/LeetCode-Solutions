@@ -10,6 +10,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -58,6 +59,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0166-fraction-to-recurring-decimal](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -92,6 +94,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
@@ -116,6 +119,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -138,6 +142,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2023-design-movie-rental-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3678-design-task-manager) |
@@ -152,4 +157,16 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
