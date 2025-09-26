@@ -14,6 +14,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -40,6 +41,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
@@ -103,6 +106,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
@@ -110,6 +114,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0069-sqrtx](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [3827-implement-router](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Interactive
