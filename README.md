@@ -8,6 +8,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -82,6 +84,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -96,6 +99,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
