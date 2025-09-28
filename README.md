@@ -19,6 +19,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0830-largest-triangle-area](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -33,6 +34,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0069-sqrtx](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -85,6 +87,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
@@ -110,6 +113,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
