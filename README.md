@@ -25,6 +25,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -39,6 +40,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
@@ -63,6 +65,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Hash Table
 |  |
@@ -202,4 +205,8 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
