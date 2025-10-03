@@ -14,6 +14,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -175,6 +176,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [2023-design-movie-rental-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3678-design-task-manager) |
@@ -188,6 +190,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [3797-design-spreadsheet](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
@@ -217,4 +220,8 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
