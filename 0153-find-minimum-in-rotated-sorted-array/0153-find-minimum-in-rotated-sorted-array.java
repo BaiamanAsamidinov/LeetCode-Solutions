@@ -1,10 +1,12 @@
 class Solution {
     public int findMin(int[] nums) {
-        Arrays.sort(nums);
-        return nums[0];
+        int min = 5002;
+        for(int num : nums) {
+            if(num < min){
+                min = num;
+            }
+        }
 
-        //Time complexity: O(N*LogN)
-        //Space complexity: O(1)
-
+        return min;
     }
 }
