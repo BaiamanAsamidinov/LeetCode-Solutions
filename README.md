@@ -21,6 +21,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0958-sort-array-by-parity-ii](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1006-vowel-spellchecker](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -133,6 +134,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 | [0278-first-bad-version](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3827-implement-router](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Interactive
 |  |
