@@ -6,6 +6,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -50,6 +51,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -98,6 +100,7 @@ A repository of my solutions to various LeetCode problems, implemented in differ
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BaiamanAsamidinov/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
